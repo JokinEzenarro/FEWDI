@@ -1,3 +1,4 @@
+CC BY-NC 4.0
 This software is provided for academic and non-commercial use only.
 
 You are free to use, modify and distribute this code for non-commercial
