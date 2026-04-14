@@ -1,0 +1,13 @@
+This software is provided for academic and non-commercial use only.
+
+You are free to use, modify and distribute this code for non-commercial
+purposes, provided that:
+
+1) Proper attribution is given to the original author.
+2) The associated publication is cited.
+
+Commercial use requires explicit permission from the author.
+
+Author: Jokin Ezenarro
+Food Science Department, University of Copenhagen
+Contact: jokin@food.ku.dk
