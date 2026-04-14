@@ -30,6 +30,6 @@ purposes, provided that:
 
 Commercial use requires explicit permission from the author.
 
-Author: Jokin Ezenarro
-Food Science Department, University of Copenhagen
+Author: Jokin Ezenarro;
+Food Science Department, University of Copenhagen;
 Contact: jokin@food.ku.dk
